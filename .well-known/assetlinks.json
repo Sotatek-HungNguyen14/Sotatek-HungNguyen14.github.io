@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sota.headshot",
+        "sha256_cert_fingerprints":
+          ["83:F4:FE:BE:22:0D:DD:0B:CB:62:EE:08:11:C2:4B:5C:2E:76:CF:36:05:F6:B8:CA:2F:4D:60:00:EC:E2:B4:CD"]
+      }
+    }
+  ]
